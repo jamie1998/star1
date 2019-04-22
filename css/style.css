@@ -49,7 +49,7 @@ body {
   border-top:100px solid #93eab5;
   position: fixed;
   left: 0%;
-  top: 50%;
+  top: 20%;
    animation-name:boxmove;
   animation-duration:2s;
   animation-iteration-count:infinite;
